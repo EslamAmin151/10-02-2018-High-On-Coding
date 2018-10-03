@@ -128,7 +128,24 @@ padding:10px;
  font-size: 20px;
  padding: 30px;
 }
-s
-.nav9 {
-font-size: 30px;
+
+.nav9{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+
+}
+
+.language{
+  background-color: gray;
+  padding:20px;
+  min-width: 100px;
+  margin: 5px;
+}
+
+.nav13{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
