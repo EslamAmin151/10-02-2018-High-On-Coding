@@ -1,0 +1,134 @@
+.todo div {
+  font-size:30px;
+  padding-left: 40%;
+  margin-bottom: 20px;
+}
+  .identify {
+   background-color:#028AF1;
+   color:white;
+   padding-left: 15px;
+   width: auto;
+   margin:10px;
+   height:70px;
+   margin-bottom:20px;
+   padding-top:40px;
+ }
+
+ .identify h {
+   font-size: 30px;
+ }
+
+ .nav{
+   display: inline;
+   font-size: 20px;
+   padding: 30px;
+ }
+
+ .spaces {
+   display: inline;
+   font-size: 20px;
+   padding: 30px;
+ }
+
+.info {
+  background-color:#A9A9A9;
+  margin :10px;
+  padding:10px
+}
+
+.info h1 {
+  font-size: 20px;
+}
+
+.nav1 h1{
+  color:#1E90FF;
+  font-size: 20px;
+  margin:10px;
+  padding:10px;
+}
+
+.nav1 p {
+  margin:10px;
+  padding:10px;
+}
+
+.nav1 a {
+  background-color:#FF8C00;
+  padding:10%;
+  margin:10%;
+  display: inline;
+}
+
+.nav2 {
+background-color: #FF8C00;
+margin-left: 20px;
+color: white;
+}
+
+.nav2 div {
+  display: inline;
+  padding:10px;
+  margin-left:10px;
+}
+
+.nav3 h1{
+color:#1E90FF;
+font-size: 20px;
+margin:10px;
+padding:10px;
+}
+
+.nav3 p {
+  margin:10px;
+  padding:10px;
+}
+
+.nav4 {
+  background-color: #FF8C00;
+  margin-bottom:70px;
+  margin-left: 20px;
+  color: white;
+}
+
+.nav4 div {
+  display: inline;
+  padding:10px;
+}
+
+.nav5 {
+  font-size:30px;
+  padding-left: 40%;
+  margin-bottom: 20px;
+
+}
+
+.nav6 {
+ background-color:#028AF1;
+ color:white;
+ padding-left: 15px;
+ width: auto;
+ margin:10px;
+ height:70px;
+ margin-bottom:20px;
+ padding-top:40px;
+}
+
+.nav6 h {
+ font-size: 30px;
+}
+
+.nav7{
+ display: inline;
+ font-size: 20px;
+ padding: 30px;
+}
+
+.nav8 {
+ display: inline;
+ font-size: 20px;
+ padding: 30px;
+}
+s
+.nav9 {
+font-size: 30px;
+}
